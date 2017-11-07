@@ -9,9 +9,9 @@ vertical order in which they're displayed, across activities and fragments. In
 this way, you can see how your fragments interact with your activities.
 
 If you see any discrepancies or errors in this diagram, please submit a pull
-request or contact [steve@staticfree.info](mailto:steve@staticfree.info).
+request or contact [Hassan Usman](mailto:HassanUsmanOfficial@gmail.com).
 
-Vector versions suitable for printing: [PDF][] or [SVG][]
+Vector versions suitable for printing: [PDF][]
 
 ![A Complete Android Fragment & Activity Lifecycle](complete_android_fragment_lifecycle.png)
 
