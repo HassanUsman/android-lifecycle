@@ -9,7 +9,7 @@ vertical order in which they're displayed, across activities and fragments. In
 this way, you can see how your fragments interact with your activities.
 
 If you see any discrepancies or errors in this diagram, please submit a pull
-request or contact [Hassan Usman](mailto:HassanUsmanOfficial@gmail.com).
+request or contact [HassanUsmanOfficial@gmail.com](mailto:HassanUsmanOfficial@gmail.com).
 
 Vector versions suitable for printing: [PDF][]
 
